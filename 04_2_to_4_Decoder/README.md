@@ -68,7 +68,7 @@ Only the required floor indication is activated according to the selected binary
 ### Example
 
 If the input is `10`, the elevator is at/selected for the **2nd Floor**, so **two green lights** are displayed.
-![Real-Life Elevator Decoder]((Real_Life_Elevator_Decoder.png)
+![Real-Life Elevator Decoder](Real_Life_Elevator_Decoder.png)
 
 ### Other Real-Life Applications
 
