@@ -84,13 +84,6 @@ A NAND-based SR Latch also consists of two cross-coupled NAND gates.
 | Reset condition | R = 1 | R̅ = 0 |
 | Hold condition | S = 0, R = 0 | S̅ = 1, R̅ = 1 |
 | Invalid condition | S = 1, R = 1 | S̅ = 0, R̅ = 0 |
-## Circuit Diagrams
-
-### SR Latch Using NOR Gates
-![NOR SR Latch](1)NOR_GATE_SR_LATCH.png)
-
-### SR Latch Using NAND Gates
-![NAND SR Latch](2)NAND_GATE_SR_LATCH.png)
 
 ## 4. Applications
 
