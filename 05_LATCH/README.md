@@ -87,10 +87,10 @@ A NAND-based SR Latch also consists of two cross-coupled NAND gates.
 ## Circuit Diagrams
 
 ### SR Latch Using NOR Gates
-![NOR SR Latch](NOR_GATE_SR_LATCH.png)
+![NOR SR Latch](1)NOR_GATE_SR_LATCH.png)
 
 ### SR Latch Using NAND Gates
-![NAND SR Latch](NAND_GATE_SR_LATCH.png)
+![NAND SR Latch](2)NAND_GATE_SR_LATCH.png)
 
 ## 4. Applications
 
